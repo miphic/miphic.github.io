@@ -1,0 +1,83 @@
+
+header .greeting {
+  background-color: #fff;
+}
+header .navigation {
+  background-color:  #383a46;
+}
+/*31.01 00:00*/
+.gr-logo {
+  /*to delete*/
+  background-color: #311;
+}
+/*31.01 00:15*/
+.gr-logo {
+  color: white;
+}
+/*30.01 23:55*/
+/* .gr-contact-info {
+  float: right;
+  margin-right: 0;
+} */
+/* .gr-contact-info p {
+  color:white;
+} */
+/*30.01 23:59*/
+.gr-contact-info {
+  /*to delete*/
+  background-color: #452;
+}
+.zeroz {
+  /*content: "";*/
+  /*to delete*/
+  background-color: pink;
+}
+/*31.01 02:26 ---- 15 минут поспал --- встал*/
+.menu-item {
+  width: auto;
+}
+/*31.01 01:16*/
+.nav-list {
+  list-style: none;
+}
+
+/*31.01 01:59*/
+/* ul {
+  overflow: hidden;
+} */
+/*31.01 01:34*/
+.menu-item > a  {    
+  display:block;
+  float:left;
+  color:#f4f4f5;
+}
+/**/
+.menu-link div {
+  padding:10px;
+  margin:5px;
+}
+
+
+/*31.01 01:51*/
+/*тестовые классы от второй менюшки*/
+/*deleted*/
+
+/*31.01 03:06*/
+main .promo .p2 {
+  height: 200px;
+  content:("");
+  background-color:rgba(200,240,80,0.5); /*#aadd23 */
+}
+
+/*31.01 03:22*/
+.grey-transparent-back {
+  background-color: rgba(119,136,153,0.5);
+}
+
+/*31.01 23:00*/
+.promo {
+  background-color:#111111;
+  background-image: url("\\img\\main1.jpg");
+  background-repeat:no-repeat;
+  background-position: center;
+}
